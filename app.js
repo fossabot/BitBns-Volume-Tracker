@@ -14,6 +14,8 @@ const gettradeHistoryURL = '';
 // At the time of pushing, the no of visible last trades are 15.
 const TradeHistoryBookSize = X;
 
+// SCANTISTTOKEN = "7ab2dfdd-dbab-4092-bdba-ee24700c47f1"
+
 // Configuring MySQL Connection settings
 var con = mysql.createConnection({
     host: "x.x.x.x",
