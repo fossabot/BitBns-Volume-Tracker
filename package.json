@@ -2,7 +2,7 @@
 	"name": "BitBns-Aggregator",
 	"version": "0.0.1",
 	"scripts": {
-		"test": "jshint app.js",
+		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "app.js"
 	},
 	"dependencies": {
