@@ -11,7 +11,6 @@
 		"moment": "^2.22.2",
 		"mysql": "^2.15.0",
 		"nodemailer": "^4.6.7",
-		"signale": "^1.2.1",
-		"jshint": "^2.6.0"
+		"signale": "^1.2.1"
 	}
 }
