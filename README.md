@@ -24,6 +24,7 @@ There were a lot of rumours lately [BitBns](http://en.wikipedia.org/wiki/Markdow
 
 * Check out the video below:
 [![Video Thumbnail](https://lh3.googleusercontent.com/dwz3N8undfjUp2oOhH0Xr0X6ZGrCooVHSJfCvhno2JA_JMMAC_Pp85Nurkx1llM63Ni0ssDhSJ5YDw=w2880-h1418-rw "Video Thumbnail")](https://www.youtube.com/watch?v=kJMwJT0AEY0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleovarmak-koinex%2FBitBns-Volume-Tracker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleovarmak-koinex%2FBitBns-Volume-Tracker?ref=badge_shield)
 
 
 * Fill all the details such as URL to get SID and then the trade history URL, TradeHistoryBook Size, Email IDs
@@ -52,3 +53,7 @@ User will also get the 24 Hour Volume on the email he provided incase he forgets
 ----
 ## Thanks:
 * [MCD-50](https://github.com/MCD-50)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleovarmak-koinex%2FBitBns-Volume-Tracker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleovarmak-koinex%2FBitBns-Volume-Tracker?ref=badge_large)
